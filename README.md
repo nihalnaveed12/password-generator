@@ -1,0 +1,1 @@
+I created a password generator web application using React with the help of Tailwind CSS utility-first framework. This project enables users to select the number of characters in the password, include numbers, and special characters, and even copy the password to the clipboard. All in all, it has been a great learning process!
